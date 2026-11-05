@@ -7,8 +7,6 @@
 | แสดงข้อความในช่อง Description ของบัญชี | `_G.Icesend_Destcripton("ข้อความ")` |
 | แจ้งว่าบัญชีนี้ทำงานเสร็จแล้ว | `_G.Icesend_Done()` |
 
-ชื่อ `Icesend_Destcripton` สะกดแบบนี้จริง ให้คัดลอกไปใช้ตรงๆ
-
 ## ติดตั้ง
 
 1. ใน ICE Rejoin ไปที่ `Settings > Checking > Checking Account Online` แล้วเลือก `Script`
